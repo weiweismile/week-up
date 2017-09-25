@@ -4,3 +4,4 @@
 
 ## 2017周报
 + [0819期](https://github.com/wezhuiyi/week-up/blob/master/%E5%91%A8%E6%8A%A5/0819.md)
++ [0925期](https://github.com/wezhuiyi/week-up/blob/master/%E5%91%A8%E6%8A%A5/0925.md)
